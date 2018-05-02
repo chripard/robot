@@ -22,4 +22,4 @@ eeeeeeeGee
 The robot holds in memory the positions of the obstacles contained in the space along with its own position and computes
 the path to the goal position using state space search implemented with A* algorithm. The euristic function
 used in the A* algorithm considers both the distance between the states and the density of the obstacles
-in the subsection defined by the next possible move.
+in the subarea defined by the next possible move.
